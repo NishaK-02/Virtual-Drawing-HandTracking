@@ -8,19 +8,18 @@ A Python-based virtual drawing script that lets you draw using only your hand ge
 👍 Thumbs Up → Save Drawing
 
 ⌨️ Keyboard Shortcuts:
- r, g, b, k, w → Change brush color (Red,    
- Green, Blue, Black, White)
+ r, g, b, k, w → Change brush color (Red,Green, Blue, Black, White)
  + / - → Increase / Decrease brush size
  m → Random color mode
  d → Toggle drawing mode ON/OFF
- z → Undo    
+ z → Undo
  y → Redo
  c → Clear canvas
  Esc → Exit the program
 
 🖼️ Drawings are saved as drawing.png in the working directory.
 
-🔧 Tech Stack
+🔧 Tech StacK
 • Python 3.11.9
 • OpenCV
 • MediaPipe
