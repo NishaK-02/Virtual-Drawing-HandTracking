@@ -1,11 +1,14 @@
-# A Python-based virtual drawing script that lets you draw using only your hand gestures and a few keyboard shortcuts. No touchscreen, mouse, or stylus needed
+# Virtual Drawing with Hand Tracking 
+
+A Python-based virtual drawing script that lets you draw using only your **hand gestures** and a few **keyboard shortcuts**. 
+No touchscreen, mouse, or stylus needed
 
 ## 🤖 Key Features & Controls:
 
 ### 🖐️ Gesture-Based Drawing
-👆 **Index Finger → Draw**
-✋ **Open Palm → Eraser Mode**
-👍 **Thumbs Up → Save Drawing*
+👆 **Index Finger** → Draw
+✋ **Open Palm** → Eraser Mode
+👍 **Thumbs Up** → Save Drawing
 
 ### ⌨️ Keyboard Shortcuts:
  **r, g, b, k, w** → Change brush color (Red,Green, Blue, Black, White)
